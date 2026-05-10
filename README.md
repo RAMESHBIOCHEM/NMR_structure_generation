@@ -124,15 +124,19 @@ python backcalculate_rdc.py
 ## Data Availability
 
 Final structural ensembles and associated data have been deposited in public repositories (protein data bank, PDB).
-
+PDBID: 8U1T SARS-CoV-2 Envelope Protein Transmembrane Domain: Dimeric Structure Determined by Solid-State NMR
 ---
 
-## Citation
+## Related Publication
 
-If you use this workflow or repository, please cite:
+This repository supports the computational analyses described in:
 
-```text
-[Authors], [Title], [Journal], [Year]
+**Zhang R, Qin H, Prasad R, Fu R, Zhou HX, Cross TA.**  
+*Dimeric Transmembrane Structure of the SARS-CoV-2 E Protein.*  
+**Communications Biology** 6, 1109 (2023).  
+https://doi.org/10.1038/s42003-023-05490-x
+
+
 ```
 
 ---
