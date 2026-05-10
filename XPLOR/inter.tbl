@@ -1,0 +1,11 @@
+!Inter-Monomer NOE restraints
+
+assign (segid A and resid 17 and name CA) (segid B and resid 18 and name CA) 6.00 1.00 1.00
+assign (segid A and resid 28 and name CA) (segid B and resid 29 and name CA) 6.00 1.00 1.00
+
+assign (segid A and resid 25 and name CA) (segid B and resid 25 and name CA) 5.86 1.00 1.00
+
+
+
+
+
